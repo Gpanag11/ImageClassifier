@@ -13,5 +13,7 @@ MyCNN: The main model class that combines multiple DenseBlocks and TransitionLay
 
 #The model is suitable for various image classification tasks and can be easily changed to accomodate different input sizes and classes
 
+#Model.pth is the already trained on the given university dataset
+
 
 
